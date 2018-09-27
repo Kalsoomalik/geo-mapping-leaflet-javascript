@@ -102,4 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-config.js
+
+code/config.js
+code/.DS_Store
+.DS_Store
+*/**/.DS_Store
+
