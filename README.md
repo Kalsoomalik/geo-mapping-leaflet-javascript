@@ -1,3 +1,8 @@
+
+
+Link to .js file: https://github.com/Kalsoomalik/geo-mapping-leaflet-javascript/blob/master/code/logic.js 
+
+
 # Unit 17 | Assignment - Visualizing Data with Leaflet
 
 ## Background
